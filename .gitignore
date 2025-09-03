@@ -21,3 +21,12 @@ venv
 node_modules
 .sass-cache
 .claude
+agents-claude-code
+.history
+test-agent
+.gitattributes
+.github
+.gitignore
+.gitmodules
+.gitignore
+.gitignore
