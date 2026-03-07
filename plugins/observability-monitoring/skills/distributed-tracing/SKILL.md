@@ -441,11 +441,6 @@ def process_request():
 - Use batch span processor
 - Check exporter configuration
 
-## Reference Files
-
-- `references/jaeger-setup.md` - Jaeger installation
-- `references/instrumentation.md` - Instrumentation patterns
-- `assets/jaeger-config.yaml.template` - Jaeger configuration
 
 ## Related Skills
 

@@ -1012,10 +1012,3 @@ it("should call function after delay", () => {
   vi.useRealTimers();
 });
 ```
-
-## Resources
-
-- **Jest Documentation**: https://jestjs.io/
-- **Vitest Documentation**: https://vitest.dev/
-- **Testing Library**: https://testing-library.com/
-- **Kent C. Dodds Testing Blog**: https://kentcdodds.com/blog/

@@ -917,11 +917,3 @@ const first = doubled.next().value; // Only computes first value
 6. **Blocking event loop**: Avoid synchronous operations
 7. **Memory leaks**: Clean up event listeners and timers
 8. **Not handling promise rejections**: Use catch() or try/catch
-
-## Resources
-
-- **MDN Web Docs**: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-- **JavaScript.info**: https://javascript.info/
-- **You Don't Know JS**: https://github.com/getify/You-Dont-Know-JS
-- **Eloquent JavaScript**: https://eloquentjavascript.net/
-- **ES6 Features**: http://es6-features.org/

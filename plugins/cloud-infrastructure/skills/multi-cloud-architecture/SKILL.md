@@ -169,10 +169,6 @@ AWS / Azure / GCP
 9. **Test disaster recovery** procedures
 10. **Train teams** on multiple clouds
 
-## Reference Files
-
-- `references/service-comparison.md` - Complete service comparison
-- `references/multi-cloud-patterns.md` - Architecture patterns
 
 ## Related Skills
 

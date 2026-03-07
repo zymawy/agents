@@ -409,17 +409,6 @@ Example:
 Total: $1.1M
 ```
 
-## Additional Resources
-
-### Reference Files
-
-- **`references/compensation-benchmarks.md`** - Detailed salary data by role, level, and location
-- **`references/equity-calculator.md`** - Equity sizing formulas and dilution scenarios
-
-### Example Files
-
-- **`examples/seed-stage-hiring-plan.md`** - Complete hiring plan for seed-stage SaaS company
-- **`examples/org-chart-evolution.md`** - Organizational design from 5 to 50 people
 
 ## Quick Start
 
@@ -433,5 +422,3 @@ To plan team composition:
 6. **Calculate budget** - Fully-loaded cost × headcount
 7. **Design org chart** - Reporting structure and span of control
 8. **Allocate equity** - Fair allocation that preserves pool
-
-For detailed compensation benchmarks and hiring plan templates, see `references/` and `examples/`.

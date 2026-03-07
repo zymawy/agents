@@ -230,10 +230,6 @@ az network vpn-connection show-device-config-script
 5. **Use Direct Connect** for high bandwidth
 6. **Implement caching** to reduce traffic
 
-## Reference Files
-
-- `references/vpn-setup.md` - VPN configuration guide
-- `references/direct-connect.md` - Direct Connect setup
 
 ## Related Skills
 

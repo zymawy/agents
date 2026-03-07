@@ -386,12 +386,6 @@ curl http://localhost:9090/api/v1/status/config
 curl 'http://localhost:9090/api/v1/query?query=up'
 ```
 
-## Reference Files
-
-- `assets/prometheus.yml.template` - Complete configuration template
-- `references/scrape-configs.md` - Scrape configuration patterns
-- `references/recording-rules.md` - Recording rule examples
-- `scripts/validate-prometheus.sh` - Validation script
 
 ## Related Skills
 

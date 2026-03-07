@@ -213,13 +213,6 @@ module "rds" {
 }
 ```
 
-## Reference Files
-
-- `assets/vpc-module/` - Complete VPC module example
-- `assets/rds-module/` - RDS module example
-- `references/aws-modules.md` - AWS module patterns
-- `references/azure-modules.md` - Azure module patterns
-- `references/gcp-modules.md` - GCP module patterns
 
 ## Testing
 
