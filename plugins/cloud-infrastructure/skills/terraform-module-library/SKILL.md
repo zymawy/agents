@@ -58,6 +58,7 @@ module-name/
 ## AWS VPC Module Example
 
 **main.tf:**
+
 ```hcl
 resource "aws_vpc" "main" {
   cidr_block           = var.cidr_block
@@ -101,6 +102,7 @@ resource "aws_internet_gateway" "main" {
 ```
 
 **variables.tf:**
+
 ```hcl
 variable "name" {
   description = "Name of the VPC"
@@ -141,6 +143,7 @@ variable "tags" {
 ```
 
 **outputs.tf:**
+
 ```hcl
 output "vpc_id" {
   description = "ID of the VPC"
@@ -210,13 +213,6 @@ module "rds" {
 }
 ```
 
-## Reference Files
-
-- `assets/vpc-module/` - Complete VPC module example
-- `assets/rds-module/` - RDS module example
-- `references/aws-modules.md` - AWS module patterns
-- `references/azure-modules.md` - Azure module patterns
-- `references/gcp-modules.md` - GCP module patterns
 
 ## Testing
 
